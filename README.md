@@ -17,9 +17,9 @@ Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural 
 
 Este projeto aborda os conceitos básicos de Processamento de Linguagem Natural (PLN), incluindo tokenização, remoção de stopwords, stemming e lematização. O notebook demonstra como essas técnicas podem ser aplicadas em textos simples para preparar dados textuais para tarefas de Machine Learning.
 
-[NLP com a biblioteca NLTK](notebooks/introducao_pln.ipynb)
+[NLP com a biblioteca NLTK]([notebooks/introducao_pln.ipynb](https://github.com/johnnycleiton07/llm-studies/blob/main/NLP_com_NLTK.ipynb))
 
-[NLP com a biblioteca spaCy](notebooks/introducao_pln.ipynb)
+[NLP com a biblioteca spaCy]([notebooks/introducao_pln.ipynb](https://github.com/johnnycleiton07/llm-studies/blob/main/NLP_com_spaCy.ipynb))
 
 
 
