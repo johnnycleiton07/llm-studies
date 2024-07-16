@@ -2,6 +2,14 @@
 
 Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural (PLN), Machine Learning e Modelos de Linguagem de Grande Escala (LLM). Este repositório contém uma coleção de notebooks do Google Colab que exemplificam diversas técnicas e aplicações nessas áreas da Inteligência Artificial.
 
+<div align="center">
+  
+| ![I'm a talking robot You can trust me](files/talking_robot.gif) |
+|:--:|
+| *I'm a talking robot. You can trust me.* |
+
+</div>
+
 ## Sumário
 
 1. [Introdução ao Processamento de Linguagem Natural](#introdução-ao-processamento-de-linguagem-natural)
