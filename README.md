@@ -27,7 +27,7 @@ Este projeto aborda os conceitos básicos de Processamento de Linguagem Natural 
 
 Neste projeto, são explorados algoritmos de Machine Learning para a classificação de textos. Utilizando um conjunto de dados de textos de emails para treinar um modelo de classificação e verificar seu desempenho com as métricas de avaliação.
 
-[Classificação de emails em spam e não spam](notebooks/classificacao_texto_ml.ipynb)
+[Classificação de emails em spam e não spam](Spam_email_classification_ML.ipynb)
 
 
 
