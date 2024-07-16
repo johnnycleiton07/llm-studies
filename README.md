@@ -78,5 +78,5 @@ Boa parte dos códigos são práticas realizadas em tutoriais e cursos. Segue ab
 
 ### Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto não está licenciado.
 
