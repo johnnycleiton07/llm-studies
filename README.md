@@ -45,7 +45,7 @@ Implementação de uma Rede Neural Artificial para Processamento de Linguagem Na
 
 [Criação de Rede Neural](Implementação_de_rede_neural.ipynb)
 
-[Criação de Rede Neural com Embeddings](notebooks/gerenciamento_llm.ipynb)
+[Criação de Rede Neural com Embeddings](Implementação_de_rede_neural_com_embeddings.ipynb)
 
 
 
