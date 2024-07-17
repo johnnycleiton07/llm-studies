@@ -41,7 +41,7 @@ Neste projeto, são explorados algoritmos de Machine Learning para a classifica�
 
 ## Redes Neurais Artificiais para PLN
 
-Implementação de uma Rede Neural Artificial para Processamento de Linguagem Natural utilizando scikit-learn e Keras. E também uma verão de Rede Neural com vetores de alta dimensão (embeddings).
+Implementação de uma Rede Neural Artificial para Processamento de Linguagem Natural utilizando scikit-learn e Keras. E também uma versão de Rede Neural com vetores de alta dimensão (embeddings).
 
 [Criação de Rede Neural](Implementação_de_rede_neural.ipynb)
 
