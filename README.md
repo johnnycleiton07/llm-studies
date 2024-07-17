@@ -76,7 +76,7 @@ Aplicações utilizando os modelos disponíveis na OpenAI a partir de uma chave 
 
 [Testando o modelo GPT da OpenAI](Testando_modelo_GPT_da_OpenAI.ipynb)
 
-[Construção de agente autônomo para LLM](notebooks/geracao_texto_gpt3.ipynb)
+[Construção de agente autônomo para LLM](Construção_de_agente_autônomo_para_LLM.ipynb)
 
 
 ## Hugging Face, BERT e Transformers
