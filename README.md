@@ -17,7 +17,7 @@ Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural 
 3. [Redes Neurais Artificiais para PLN](#redes-neurais-artificiais-para-pln)
 4. [Análise de Sentimentos](#análise-de-sentimentos)
 5. [Fine-tunning em Modelos de Linguagem de Grande Escala](#fine-tunning-em-modelos-de-linguagem-de-grande-escala)
-6. [Agentes Autônomos em LLMs](#agentes-autônomos-em-llms)
+6. [Modelos GPT da OpenAI](#modelos-gpt-da-openai)
 7. [Hugging Face, BERT e Transformers](#hugging-face-bert-e-transformers)
 
 
@@ -70,9 +70,9 @@ Exploração de fine-tunning em LLM realizando ajustes em um modelo pré-treinad
 
 
 
-## Agentes Autônomos em LLMs
+## Modelos GPT da OpenAI
 
-Aplicando agente autônomo para usar a capacidade de processamento de linguagem natural dos LLMs para realizar uma variedade de tarefas de maneira mais eficiente e inteligente.
+Aplicações utilizando os modelos disponíveis na OpenAI a partir de uma chave para consulta da API. Com os modelos é possível realizar várias operações relacionadas a Modelos de Linguagem de Grande Escala.
 
 [Construção de agente autônomo para LLM](notebooks/geracao_texto_gpt3.ipynb)
 
