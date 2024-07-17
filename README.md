@@ -44,9 +44,9 @@ Neste projeto, são explorados algoritmos de Machine Learning para a classifica�
 
 Implementação de uma Rede Neural Artificial para Processamento de Linguagem Natural utilizando scikit-learn e Keras. E também uma versão de Rede Neural com vetores de alta dimensão (embeddings).
 
-[Criação de Rede Neural](Implementação_de_rede_neural.ipynb)
+[Criação de rede neural artificial](Implementação_de_rede_neural.ipynb)
 
-[Criação de Rede Neural com Embeddings](Implementação_de_rede_neural_com_embeddings.ipynb)
+[Criação de rede neural artificial com embeddings](Implementação_de_rede_neural_com_embeddings.ipynb)
 
 
 
@@ -54,11 +54,11 @@ Implementação de uma Rede Neural Artificial para Processamento de Linguagem Na
 
 Nestes notebooks, foram utilizadas técnicas diferentes para realizar a análise de sentimentos em uma base de dados com textos de tweets. LSTM (um tipo de rede neural recorrente) e a biblioteca VADER foram utilizadas.
 
-[Análise de Sentimentos com LSTM](notebooks/analise_sentimentos_bert.ipynb)
+[Análise de sentimentos com LSTM](notebooks/analise_sentimentos_bert.ipynb)
 
-[Análise de Sentimentos a base de Regras (VADER)](notebooks/analise_sentimentos_bert.ipynb)
+[Análise de sentimentos a base de Regras (VADER)](notebooks/analise_sentimentos_bert.ipynb)
 
-[Análise de Sentimentos: Supervisionado x Regras](notebooks/analise_sentimentos_bert.ipynb)
+[Análise de sentimentos: supervisionado x regras](notebooks/analise_sentimentos_bert.ipynb)
 
 
 
@@ -66,7 +66,7 @@ Nestes notebooks, foram utilizadas técnicas diferentes para realizar a análise
 
 Exploração de fine-tunning em LLM realizando ajustes em um modelo pré-treinado para uma nova tarefa específica, utilizando um conjunto de dados menor e específico para a tarefa.
 
-[Implementando Fine-Tuning em um LLM usando o Bert](notebooks/geracao_texto_gpt3.ipynb)
+[Implementando fine-Tuning em um LLM usando BERT](notebooks/geracao_texto_gpt3.ipynb)
 
 
 
@@ -74,14 +74,16 @@ Exploração de fine-tunning em LLM realizando ajustes em um modelo pré-treinad
 
 Aplicando agente autônomo para usar a capacidade de processamento de linguagem natural dos LLMs para realizar uma variedade de tarefas de maneira mais eficiente e inteligente.
 
-[Construção de Agente Autônomo](notebooks/geracao_texto_gpt3.ipynb)
+[Construção de agente autônomo para LLM](notebooks/geracao_texto_gpt3.ipynb)
 
 
 ## Hugging Face, BERT e Transformers
 
 Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hugging Face. Aplicações poderosas no domínio da Inteligência Artificial, porém com alto nível de abstração.
 
-[Perguntas e Respostas com modelo de LLM da Hugging Face](Perguntas_e_respostas_com_Transformers.ipynb)
+[Perguntas e respostas com modelo de LLM da Hugging Face](Perguntas_e_respostas_com_Transformers.ipynb)
+
+[Preenchimento de lacunas com BERTimbau](Preenchimento_de_lacunas_com_BERTimbau.ipynb)
 
 ---
 
