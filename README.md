@@ -43,7 +43,7 @@ Neste projeto, são explorados algoritmos de Machine Learning para a classifica�
 
 Implementação de uma Rede Neural Artificial para Processamento de Linguagem Natural utilizando scikit-learn e Keras. E também uma verão de Rede Neural com vetores de alta dimensão (embeddings).
 
-[Criação de Rede Neural](notebooks/gerenciamento_llm.ipynb)
+[Criação de Rede Neural](Implementação_de_rede_neural.ipynb)
 
 [Criação de Rede Neural com Embeddings](notebooks/gerenciamento_llm.ipynb)
 
