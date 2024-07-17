@@ -66,7 +66,7 @@ Nestes notebooks, foram utilizadas técnicas diferentes para realizar a análise
 
 Exploração de fine-tunning em LLM realizando ajustes em um modelo pré-treinado para uma nova tarefa específica, utilizando um conjunto de dados menor e específico para a tarefa.
 
-[Implementando fine-Tuning em um LLM usando BERT](notebooks/geracao_texto_gpt3.ipynb)
+[Implementando fine-Tuning em um LLM usando BERT](implementando_fine_tuning_em_LLM_usando_BERT.ipynb)
 
 
 
