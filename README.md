@@ -18,6 +18,7 @@ Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural 
 4. [Análise de Sentimentos](#análise-de-sentimentos)
 5. [Fine-tunning em Modelos de Linguagem de Grande Escala](#fine-tunning-em-modelos-de-linguagem-de-grande-escala)
 6. [Agentes Autônomos em LLMs](#agentes-autônomos-em-llms)
+7. [Hugging Face, BERT e Transformers](#hugging-face-bert-e-transformers)
 
 
 
@@ -74,6 +75,13 @@ Exploração de fine-tunning em LLM realizando ajustes em um modelo pré-treinad
 Aplicando agente autônomo para usar a capacidade de processamento de linguagem natural dos LLMs para realizar uma variedade de tarefas de maneira mais eficiente e inteligente.
 
 [Construção de Agente Autônomo](notebooks/geracao_texto_gpt3.ipynb)
+
+
+## Hugging Face, BERT e Transformers
+
+Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hugging Face. Aplicações poderosas no domínio da Inteligência Artificial, porém com alto nível de abstração.
+
+[Perguntas e Respostas com modelo de LLM da Hugging Face](Perguntas_e_respostas_com_Transformers.ipynb)
 
 ---
 
