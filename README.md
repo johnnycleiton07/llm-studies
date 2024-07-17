@@ -74,6 +74,8 @@ Exploração de fine-tunning em LLM realizando ajustes em um modelo pré-treinad
 
 Aplicações utilizando os modelos disponíveis na OpenAI a partir de uma chave para consulta da API. Com os modelos é possível realizar várias operações relacionadas a Modelos de Linguagem de Grande Escala.
 
+[Testando o modelo GPT da OpenAI](Testando_modelo_GPT_da_OpenAI.ipynb)
+
 [Construção de agente autônomo para LLM](notebooks/geracao_texto_gpt3.ipynb)
 
 
