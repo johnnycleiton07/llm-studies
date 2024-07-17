@@ -85,6 +85,8 @@ Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hug
 
 [Preenchimento de lacunas com BERTimbau](Preenchimento_de_lacunas_com_BERTimbau.ipynb)
 
+[Resumo de textos com Transformers](Resumo_de_textos_com_Transformers.ipynb)
+
 ---
 
 ### 🔗 Referências e Contribuições
