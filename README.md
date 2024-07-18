@@ -91,7 +91,7 @@ Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hug
 
 [Preenchimento de lacunas com BERTimbau](Preenchimento_de_lacunas_com_BERTimbau.ipynb)
 
-
+[Modelagem de tópicos com BERT](Modelagem_de_tópicos_com_BERT.ipynb)
 
 
 
