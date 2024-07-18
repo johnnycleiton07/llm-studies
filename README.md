@@ -54,11 +54,11 @@ Implementação de uma Rede Neural Artificial para Processamento de Linguagem Na
 
 Nestes notebooks, foram utilizadas técnicas diferentes para realizar a análise de sentimentos em uma base de dados com textos de tweets. LSTM (um tipo de rede neural recorrente) e a biblioteca VADER foram utilizadas.
 
-[Análise de sentimentos com LSTM](notebooks/analise_sentimentos_bert.ipynb)
+[Análise de sentimentos com LSTM](Analise_de_sentimentos_com_LSTM.ipynb)
 
-[Análise de sentimentos a base de Regras (VADER)](notebooks/analise_sentimentos_bert.ipynb)
+[Análise de sentimentos com VADER](Analise_de_sentimentos_com_VADER.ipynb)
 
-[Análise de sentimentos: supervisionado x regras](notebooks/analise_sentimentos_bert.ipynb)
+[Análise de sentimentos: supervisionado x regras](Analise_de_sentimentos_supervisionado_x_regras.ipynb)
 
 
 
