@@ -18,7 +18,7 @@ Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural 
 4. [Análise de Sentimentos](#análise-de-sentimentos)
 5. [Fine-tunning em Modelos de Linguagem de Grande Escala](#fine-tunning-em-modelos-de-linguagem-de-grande-escala)
 6. [Modelos GPT da OpenAI](#modelos-gpt-da-openai)
-7. [Hugging Face, BERT e Transformers](#hugging-face-bert-e-transformers)
+7. [Hugging Face, Transformers e BERT](#hugging-face-transformers-e-bert)
 
 
 
@@ -79,7 +79,7 @@ Aplicações utilizando os modelos disponíveis na OpenAI a partir de uma chave 
 [Construção de agente autônomo para LLM](Construção_de_agente_autônomo_para_LLM.ipynb)
 
 
-## Hugging Face, BERT e Transformers
+## Hugging Face, Transformers e BERT
 
 Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hugging Face. Aplicações poderosas no domínio da Inteligência Artificial, porém com alto nível de abstração.
 
