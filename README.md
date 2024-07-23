@@ -18,7 +18,8 @@ Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural 
 4. [Análise de Sentimentos](#análise-de-sentimentos)
 5. [Fine-tunning em Modelos de Linguagem de Grande Escala](#fine-tunning-em-modelos-de-linguagem-de-grande-escala)
 6. [Modelos GPT da OpenAI](#modelos-gpt-da-openai)
-7. [Hugging Face, Transformers e BERT](#hugging-face-transformers-e-bert)
+7. [Modelo BERT e Variações](#modelo-bert-e-variações)
+8. [Hugging Face e Transformers](#hugging-face-e-transformers)
 
 
 
@@ -29,6 +30,8 @@ Este projeto aborda os conceitos básicos de Processamento de Linguagem Natural 
 [NLP com a biblioteca NLTK](NLP_com_NLTK.ipynb)
 
 [NLP com a biblioteca spaCy](NLP_com_spaCy.ipynb)
+
+[Pré-processamento de dados de texto](Pre_processamento_com_NLTK_e_spaCy.ipynb)
 
 
 
@@ -47,6 +50,8 @@ Implementação de uma Rede Neural Artificial para Processamento de Linguagem Na
 [Criação de rede neural artificial](Implementação_de_rede_neural.ipynb)
 
 [Criação de rede neural artificial com embeddings](Implementação_de_rede_neural_com_embeddings.ipynb)
+
+[Criando uma LSTM para PLN na prática](LSTM_simples_na_prática.ipynb)
 
 
 
@@ -68,6 +73,9 @@ Exploração de fine-tunning em LLM realizando ajustes em um modelo pré-treinad
 
 [Implementando fine-Tuning em um LLM usando BERT](implementando_fine_tuning_em_LLM_usando_BERT.ipynb)
 
+[Fine-tunning na prática com GPT](Fine_tunning_na_pratica_com_GPT.ipynb)
+
+[Implementando LoRA](Implementando_LoRA.ipynb)
 
 
 ## Modelos GPT da OpenAI
@@ -76,10 +84,26 @@ Aplicações utilizando os modelos disponíveis na OpenAI a partir de uma chave 
 
 [Testando o modelo GPT da OpenAI](Testando_modelo_GPT_da_OpenAI.ipynb)
 
+[GPT na prática com GPTNeo](GPT_exemplo_com_GPTNeo.ipynb)
+
 [Construção de agente autônomo para LLM](Construção_de_agente_autônomo_para_LLM.ipynb)
 
 
-## Hugging Face, Transformers e BERT
+
+
+## Modelo BERT e Variações
+
+Notebooks utilizando os modelos BERT disponíveis na biblioteca da 🤗 Hugging Face. O modelo é poderoso, porém as aplicações nos exemplos possuem um grau de entendimento fácil.
+
+[Modelagem de tópicos com BERT](Modelagem_de_tópicos_com_BERT.ipynb)
+
+[Preenchimento de lacunas com BERTimbau](Preenchimento_de_lacunas_com_BERTimbau.ipynb)
+
+[Preenchimento de lacunas com RoBERTa](Preenchimento_de_lacunas_com_RoBERTa.ipynb)
+
+
+
+## Hugging Face e Transformers
 
 Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hugging Face. Aplicações poderosas no domínio da Inteligência Artificial, porém com alto nível de abstração.
 
@@ -89,9 +113,9 @@ Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hug
 
 [Geração de textos com modelo de LLM da Hugging Face](Geração_de_texto_com_Transformers.ipynb)
 
-[Preenchimento de lacunas com BERTimbau](Preenchimento_de_lacunas_com_BERTimbau.ipynb)
+[Transformers com T5 na prática para resumo de textos](Transformers_com_T5_na_pratica.ipynb)
 
-[Modelagem de tópicos com BERT](Modelagem_de_tópicos_com_BERT.ipynb)
+
 
 
 
@@ -101,7 +125,8 @@ Projetos que exploram os módulos disponíveis na biblioteca da empresa 🤗 Hug
 
 Boa parte dos códigos são práticas realizadas em tutoriais e cursos. Segue abaixo lista de links que foram consultados e links de indicação de conteúdo que podem ser utilizados para um estudo mais abrangente.
 
-+ [Formação Processamento de Linguagem Natural e LLM (Udemy)]([notebooks/geracao_texto_gpt3.ipynb](https://www.udemy.com/course/formacao-processamento-de-linguagem-natural-nlp/?couponCode=THANKSLEARNER24))
++ [Formação Processamento de Linguagem Natural e LLM (Udemy)](https://www.udemy.com/course/formacao-processamento-de-linguagem-natural-nlp/?couponCode=THANKSLEARNER24)
++ [LLMs: Dommine GPT, Gemini, BERT e Muito Mais - 2024 (Udemy)](https://www.udemy.com/course/domine-llm/?couponCode=KEEPLEARNING)
 + [PROF. FABIO SANTOS (YouTube)](https://www.youtube.com/@Prof.FabioSantos)
 
 ### Licença
