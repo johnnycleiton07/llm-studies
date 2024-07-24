@@ -24,9 +24,9 @@ Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural 
 
 Aqui tem-se os conceitos básicos de Natural Language Processing (NLP), incluindo tokenização, remoção de stopwords, stemming e lematização. Os notebooks demonstram como essas técnicas podem ser aplicadas em textos simples para preparar dados textuais para tarefas de Machine Learning.
 
-* [Pré-processamento de texto]()
-* [NLP com a biblioteca NLTK]()
-* [NLP com a biblioteca spaCy]()
+* [Pré-processamento de texto](1. Fundamentos de NLP/1_pre_processamento_de_texto.ipynb)
+* [NLP com a biblioteca NLTK](1. Fundamentos de NLP/2_NLP_com_NLTK.ipynb)
+* [NLP com a biblioteca spaCy](1. Fundamentos de NLP/3_NLP_com_spaCy.ipynb)
 
 
 
