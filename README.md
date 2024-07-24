@@ -58,34 +58,34 @@ Para esses notebooks são apresentados exemplos que envolvem ajustar um modelo p
 
 Projetos que exploram os módulos disponíveis na biblioteca da empresa [*Hugging Face*](https://huggingface.co/). Os notebooks seguintes possuem demonstração de diversas tarefas de Modelos de Linguagem, como tradução de texto, sumarização, perguntas e respostas, entre outros. São aplicações poderosas no domínio da Inteligência Artificial, porém com alto nível de abstração.
 
-* [Geração de texto com GPT2]()
-* [Compreensão de texto com RoBERTa]()
-* [Tradução automática de texto com OPUS]()
-* [Perguntas e respostas com RoBERTa]()
-* [Perguntas e respostas com BERT]()
-* [Sumarização de texto com BART]()
-* [Sumarização de texto com Transformers]()
-* [Sumarização de texto com T5]()
-* [Preenchimento de máscara com GPTNeo]()
-* [Preenchimento de máscara com BERTimbau]()
-* [Preenchimento de máscara com RoBERTa]()
-* [Modelagem de tópicos com BERT]()
-* [Gerando Sequências de texto com GPT2]()
-* [Correção gramatical de texto com T5]()
+* [Geração de texto com GPT2](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/01_geracao_de_texto_com_GPT2.ipynb)
+* [Compreensão de texto com RoBERTa](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/02_compreensao_de_texto_com_roberta.ipynb)
+* [Tradução automática de texto com OPUS](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/03_traducao_automatica_de_texto_com_opus.ipynb)
+* [Perguntas e respostas com RoBERTa](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/04_perguntas_e_respostas_com_roberta.ipynb)
+* [Perguntas e respostas com BERT](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/05_perguntas_e_respostas_com_BERT.ipynb)
+* [Sumarização de texto com BART](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/06_sumarizacao_de_texto_com_bart.ipynb)
+* [Sumarização de texto com Transformers](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/07_sumarizacao_de_texto_com_Transformers.ipynb)
+* [Sumarização de texto com T5](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/08_sumarizacao_de_texto_com_T5.ipynb)
+* [Preenchimento de máscara com GPTNeo](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/09_preenchimento_de_mascara_com_GPTNeo.ipynb)
+* [Preenchimento de máscara com BERTimbau](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/10_preenchimento_de_mascara_com_BERTimbau.ipynb)
+* [Preenchimento de máscara com RoBERTa](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/11_preenchimento_de_mascara_com_RoBERTa.ipynb)
+* [Modelagem de tópicos com BERT](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/12_modelagem_de_topicos_com_BERT.ipynb)
+* [Gerando Sequências de texto com GPT2](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/13_gerando_sequencia_de_texto_com_gpt2.ipynb)
+* [Correção gramatical de texto com T5](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/14_correcao_gramatical_de_texto_com_T5.ipynb)
 
 
 
 #### GPT da OpenIA:
 
-* [Testando o modelo GPT da OpenIA]()
-* [Agente autônomo para LLM com GPT da OpenIA]()
+* [Testando o modelo GPT da OpenIA](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/15_testando_o_modelo_GPT_da_OpenAI.ipynb)
+* [Agente autônomo para LLM com GPT da OpenIA](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/16_agente_autonomo_para_LLM_com_GPT_da_OpenIA.ipynb)
 
 
 #### Análise de Sentimentos:
 
-* [Análise de Sentimentos com rede neural LSTM]()
-* [Análise de Sentimentos a base de regras com VADER]()
-* [Análise de Sentimentos: Supervisionado x Regras]()
+* [Análise de Sentimentos com rede neural LSTM](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/17_analise_de_sentimentos_com_rede_neural_LSTM.ipynb)
+* [Análise de Sentimentos a base de regras com VADER](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/18_analise_de_sentimentos_a_base_de_regras_com_VADER.ipynb)
+* [Análise de Sentimentos: Supervisionado x Regras](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/19_analise_de_sentimentos_supervisionado_x_regras.ipynb)
 
 
 ---
