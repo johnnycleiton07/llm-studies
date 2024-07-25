@@ -34,7 +34,7 @@ Aqui tem-se os conceitos básicos de Natural Language Processing (NLP), incluind
 
 ## Machine Learning e Deep Learning para NLP
 
-Os notebboks desta seção exploram como as áreas de ML e DL, assim como as Redes Neurais colaboram com as aplicações de Processamento de Linguagem Natural. Aqui foram utilizandas bibliotecas poderosas de machine learning como scikit-learn e Keras na construção dos códigos..
+Os notebboks desta seção exploram como as áreas de ML e DL, assim como as Redes Neurais colaboram com as aplicações de Processamento de Linguagem Natural. Aqui foram utilizadas bibliotecas poderosas de machine learning como scikit-learn e Keras na construção dos códigos.
 
 * [Machine Learning para classificação de texto](https://github.com/johnnycleiton07/llm-studies/blob/main/2.%20ML%20e%20DL%20para%20NLP/1_machine_learning_para_classificacao_de_texto.ipynb)
 * [Criação de rede neural artificial](https://github.com/johnnycleiton07/llm-studies/blob/main/2.%20ML%20e%20DL%20para%20NLP/2_criacao_de_rede_neural_artificial.ipynb)
