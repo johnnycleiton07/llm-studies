@@ -48,9 +48,9 @@ Os notebboks desta seção exploram como as áreas de ML e DL, assim como as Red
 
 Para esses notebooks são apresentados exemplos que envolvem ajustar um modelo pré-treinado em uma nova tarefa específica, utilizando um conjunto de dados menor e especializado. Esse processo adapta o modelo às necessidades particulares, melhorando sua performance sem precisar treinar do zero.
 
-* [Fine-tunning na prática com GPT2]()
-* [Fine-Tuning em uma LLM usando o BERT]()
-* [Implementando Low-Rank Adaptation (LoRA)]()
+* [Fine-tunning na prática com GPT2](https://github.com/johnnycleiton07/llm-studies/blob/main/3.%20Fine-Tunning%20em%20LLMs/1_fine_tunning_na_pratica_com_GPT2.ipynb)
+* [Fine-Tuning em uma LLM usando o BERT](https://github.com/johnnycleiton07/llm-studies/blob/main/3.%20Fine-Tunning%20em%20LLMs/2_fine_tuning_em_uma_LLM_usando_o_BERT.ipynb)
+* [Implementando Low-Rank Adaptation (LoRA)](https://github.com/johnnycleiton07/llm-studies/blob/main/3.%20Fine-Tunning%20em%20LLMs/3_implementando_Low_Rank_Adaptation_(LoRA).ipynb)
 
 
 
