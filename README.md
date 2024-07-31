@@ -75,10 +75,10 @@ Projetos que exploram os módulos disponíveis na biblioteca da empresa [*Huggin
 
 
 
-#### GPT da OpenIA:
+#### GPT da OpenAI:
 
-* [Testando o modelo GPT da OpenIA](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/15_testando_o_modelo_GPT_da_OpenAI.ipynb)
-* [Agente autônomo para LLM com GPT da OpenIA](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/16_agente_autonomo_para_LLM_com_GPT_da_OpenIA.ipynb)
+* [Testando o modelo GPT da OpenAI](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/15_testando_o_modelo_GPT_da_OpenAI.ipynb)
+* [Agente autônomo para LLM com GPT da OpenAI](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/16_agente_autonomo_para_LLM_com_GPT_da_OpenIA.ipynb)
 
 
 #### Análise de Sentimentos:
