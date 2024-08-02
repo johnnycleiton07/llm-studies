@@ -96,7 +96,7 @@ Boa parte dos códigos são práticas realizadas em tutoriais e cursos feitos de
 
 + [Formação Processamento de Linguagem Natural e LLM (Udemy)](https://www.udemy.com/course/formacao-processamento-de-linguagem-natural-nlp/?couponCode=THANKSLEARNER24)
 + [LLMs: Dommine GPT, Gemini, BERT e Muito Mais - 2024 (Udemy)](https://www.udemy.com/course/domine-llm/?couponCode=KEEPLEARNING)
-+ [Desenvolvendo Aplicações com LLMs](https://www.udemy.com/course/desenvolvendo-aplicacoes-com-llms/?couponCode=ST4MT73124)
++ [Desenvolvendo Aplicações com LLMs (Udemy)](https://www.udemy.com/course/desenvolvendo-aplicacoes-com-llms/?couponCode=ST4MT73124)
 + [PROF. FABIO SANTOS (YouTube)](https://www.youtube.com/@Prof.FabioSantos)
 
 ### Licença
