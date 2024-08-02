@@ -87,6 +87,9 @@ Projetos que exploram os módulos disponíveis na biblioteca da empresa [*Huggin
 * [Análise de Sentimentos a base de regras com VADER](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/18_analise_de_sentimentos_a_base_de_regras_com_VADER.ipynb)
 * [Análise de Sentimentos: Supervisionado x Regras](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/19_analise_de_sentimentos_supervisionado_x_regras.ipynb)
 
+#### Projetos:
+
+* [Suposição de diagnóstico clínico com modelo BERT](https://github.com/johnnycleiton07/llm-studies/blob/main/4.%20Aplica%C3%A7%C3%B5es%20de%20LLMs/20_exemplo_pratico_diagn%C3%B3stico_cl%C3%ADnico_com_BERT.ipynb)
 
 ---
  
