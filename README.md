@@ -1,4 +1,4 @@
-# Repositório de Projetos de NLP, Machine Learning e LLM
+# Repositório de Projetos de NLP, LLM e Machine Learning
 
 Bem-vindo ao meu repositório de projetos de Processamento de Linguagem Natural (NLP), Machine Learning e Modelos de Linguagem de Grande Escala (LLM). Este repositório contém uma coleção de notebooks do Google Colab que exemplificam diversas técnicas e aplicações dessas áreas da Inteligência Artificial, sobretudo da IA Generativa.
 
